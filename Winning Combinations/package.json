@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "test": "jest",
+    "watch": "jest --watch",
     "build": "rimraf ./dist && tsc"
   },
   "devDependencies": {
